@@ -1,0 +1,24 @@
+STEP 1:       START
+STEP 2:       Declare variable
+STEP 2.1:     Also declare file pointeer
+STEP 2.2:     Assign google.com the url to hostname
+STEP 2.2:     Also assign the gethostnmae(hostname) to hostinfo
+STEP 3:       if loop start check condition
+STEP 3.1:     when true
+STEP 3.1.1    Open log file/file.txt
+STEP 3.1.2    If inside if starts
+STEP 3.1.2.1: When true
+STEP 3.1.2.2: couldn"t fetch log file
+STEP 3.1.2.3: When false
+STEP 3.1.2.4: Internet unavailable ,display year,month,date,hour,
+              minutes and seconds 
+STEP 3.2:     when false
+STEP 3.2.1:   open log file/file.txt
+STEP 3.2.2:   if inside starts
+STEP 3.2.2.1: when true
+STEP 3.2.2.2: couldn"t fetch log file
+STEP 3.2.2.3: when false
+STEP 3.2.2.4: Internet available ,display year ,month,date,hour,
+              minutes and seconds
+STEP 4:       Close file pointeer.
+STEP 5:       STOP
